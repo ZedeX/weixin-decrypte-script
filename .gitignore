@@ -22,3 +22,4 @@ find_v2_key2.py
 .env
 .venv/
 venv/
+libs/
