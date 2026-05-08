@@ -33,7 +33,7 @@ pip install pymem psutil pycryptodome zstandard flask flask-cors
 
 ### 方式一：一键启动 API 服务（推荐）
 
-类似 [chatlog](https://github.com/pieterlexis/chatlog) 的体验，一条命令完成所有操作：
+类似 [chatlog](https://github.com/sjzar/chatlog) 的体验，一条命令完成所有操作：
 
 ```bash
 # 全自动：微信运行中，自动扫描密钥 + 解密 + 启动
